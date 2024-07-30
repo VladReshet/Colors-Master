@@ -1,4 +1,4 @@
-https://vladreshet.github.io/colors-master/
+[https://vlad-reshetylo.github.io/colors-master/#/](https://vlad-reshetylo.github.io/colors-master/#/)
 
 ![alt text](demo.jpg)
 
